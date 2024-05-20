@@ -58,7 +58,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "SolidityAbad" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed it will show the creation of your token.
+Once the contract is deployed it will show the creation of your token and you can on the left part of the screen the minting and burning function to mint or burn the tokens been made earlier.
 
 ## Authors
 
